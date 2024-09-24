@@ -1,0 +1,45 @@
+_repo: Victoria-b-A-love-story_74458
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Chater, Arthur G.
+    alias: Chater, A. G. (Arthur G.)
+    gutenberg_agent_id: '1190'
+    url: http://www.gutenberg.org/2009/agents/1190
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    - Thode, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Knut_Hamsun
+    - https://fi.wikipedia.org/wiki/Knut_Hamsun
+    - https://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2024-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74458'
+language: en
+pgterms:marc904: https://archive.org/details/in.ernet.dli.2015.97511
+pgterms:marc905: 20201018100450hamsun
+pgterms:marc906: '1923'
+pgterms:marc907: gb
+production_note: Peter Becker, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bGyldendal, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Victoria : $b A love story'
+url: http://www.gutenberg.org/ebooks/74458
